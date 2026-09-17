@@ -50,9 +50,8 @@ ai khane api ar data ta ke fetching kore niya asa holo
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 1. Clone the repository:
-   (bash)
-   git clone <>
-   cd movie-explorer
+   Github Link:
+   git clone <https://github.com/abdurrab70/MovieExplorerApp.git>

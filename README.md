@@ -55,3 +55,4 @@ ai khane api ar data ta ke fetching kore niya asa holo
 1. Clone the repository:
    Github Link:
    git clone <https://github.com/abdurrab70/MovieExplorerApp.git>
+   vercel deploy link: <https://extreame-movie-app.vercel.app>
